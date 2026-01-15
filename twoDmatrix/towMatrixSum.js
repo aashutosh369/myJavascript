@@ -22,3 +22,5 @@ function matrixAddition(mat1,mat2){
 }
 
 console.log(matrixAddition(matrix1,matrix2))
+
+// console.log(matrix1.reverse())
